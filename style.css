@@ -1,0 +1,10 @@
+body{
+    background: #aae0cc;
+}
+#form-container{
+    text-align: center; 
+    border: 1px solid black;
+    width: 400px ;
+    margin-left: 35%; 
+    
+}
